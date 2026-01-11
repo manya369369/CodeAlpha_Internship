@@ -1,1 +1,1 @@
-Stock Portfolio ReportStock:AAPLQuantity Owned: 3Current Price In Market: $180Total Invested Money: $540
+Stock Portfolio ReportStock:AAPLQuantity Owned: 2Current Price In Market: $180Total Invested Money: $360

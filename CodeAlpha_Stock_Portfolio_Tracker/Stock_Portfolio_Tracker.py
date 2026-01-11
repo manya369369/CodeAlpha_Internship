@@ -13,10 +13,10 @@ if stock_name in stock_prices:
     total_value=price*quantity
     with open("portfolio_report.txt","w") as file:
      file.write("Stock Portfolio Report")
-     file.write(f"Stock:{stock_name}") 
-     file.write(f"Quantity Owned: {quantity}")
-     file.write(f"Current Price In Market: ${price}") 
-     file.write(f"Total Invested Money: ${total_value}")  
+     file.write(f"\n Stock:{stock_name}") 
+     file.write(f"\n Quantity Owned: {quantity}")
+     file.write(f"\n Current Price In Market: ${price}") 
+     file.write(f"\n Total Invested Money: ${total_value}")  
     print("Report is succesfully saved to portfolio_report.txt")     
     print(f"Portfolio Summary:")
     print(f"Stock:{stock_name}")
