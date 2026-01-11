@@ -18,7 +18,7 @@ if stock_name in stock_prices:
      file.write(f"Current Price In Market: ${price}") 
      file.write(f"Total Invested Money: ${total_value}")  
     print("Report is succesfully saved to portfolio_report.txt")     
-    print(f"Portfolio Summary")
+    print(f"Portfolio Summary:")
     print(f"Stock:{stock_name}")
     print(f"Current Price: ${price}")
     print(f"Quantity Owned: {quantity}")
