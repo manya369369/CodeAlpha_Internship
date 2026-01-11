@@ -17,6 +17,6 @@ How the Program Works-
   3.Lookup and Calculation: The system searches the dictionary for the entered symbol. If found, it retrieves the price and multiplies it by the number of shares.
   4.Result Output: The total valuation is displayed on the console and automatically written into a file named portfolio_report.txt for the user's records.
 Installation and Usage-
-  1.Ensure you have Python 3.x installed on your system.
+  1.Ensure you have Python 3.14.2 installed on your system.
   2.Clone the repository: git clone https://github.com/YourUsername/CodeAlpha_StockTracker.
   3.Navigate to the directory and run the script: python main.py.
