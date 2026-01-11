@@ -17,6 +17,6 @@ How the Game Works
      3.Verification: The system checks if the letter exists in the word. If found, the letter is revealed in its correct position. If not, the player loses one of          their 6 lives.
      4.End State: The game concludes when all letters are guessed (Win) or when the lives counter reaches zero (Loss).
 Installation and Usage
-     1.Ensure you have Python 3.x installed on your system.
+     1.Ensure you have Python 3.14.2 installed on your system.
      2.Clone the repository: git clone https://github.com/YourUsername/CodeAlpha_HangmanGame.  
      3.Navigate to the directory and run the script: python main.py.
