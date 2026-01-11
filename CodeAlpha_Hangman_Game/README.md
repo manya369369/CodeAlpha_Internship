@@ -1,5 +1,5 @@
 Project Overview-
-  This project is a text-based implementation of the classic Hangman Game, developed as part of the Python Programming Internship at CodeAlpha. The goal of the        project is to demonstrate proficiency in Python fundamentals, including data structures, control flow, and user interaction.  
+  This project is a text-based implementation of the classic Hangman Game, developed as part of the Python Programming Internship at CodeAlpha. The goal of the project is to demonstrate proficiency in Python fundamentals, including data structures, control flow, and user interaction.  
 Task Description
   The objective of Task 1 is to create a functional console-based game where a player attempts to guess a secret word one letter at a time. To meet the specific requirements of the internship, the project follows these guidelines:  
  1.Word Selection: The game utilizes a predefined list of 5 words for selection.  
